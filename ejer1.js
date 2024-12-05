@@ -1,0 +1,12 @@
+let aImput = document.querySelector("#a");
+aImput.value= "abc";
+let nameI = document. querySelector("name");
+nameI.value = "pedro";
+let num1I = document.querySelector("num1");
+nameI.value =3;
+let num2I = document.querySelector("num2");
+//num2I.value =4;
+let primerE = num2I[0];
+primerE.value = "textoE";
+let segundoE = num2I[1];
+segundoE.value = "textoE2";
